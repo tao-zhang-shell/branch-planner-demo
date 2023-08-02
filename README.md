@@ -21,6 +21,7 @@ metadata:
   namespace: flux-system
 spec:
   path: ./
+  approvePlan: auto
   interval: 1m
   sourceRef:
     kind: GitRepository
