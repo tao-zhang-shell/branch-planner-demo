@@ -9,5 +9,5 @@ variable "subject" {
 }
 
 output "hello_world" {
-  value = "Hello branch planner demo, ${var.subject}!"
+  value = "Hello TF Controller v0.16.0-rc.2, ${var.subject}!"
 }
