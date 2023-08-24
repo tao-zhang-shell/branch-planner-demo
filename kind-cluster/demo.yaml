@@ -15,4 +15,4 @@ spec:
     namespace: flux-system
   vars:
     - name: subject
-      value: New-world
+      value: Another-world
