@@ -5,6 +5,7 @@ metadata:
   name: branch-planner-demo
   namespace: flux-system
 spec:
+  approvePlan: "plan-main-5cbf6f02c7"
   path: ./
   interval: 1m
   storeReadablePlan: human
